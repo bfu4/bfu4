@@ -1,7 +1,7 @@
 ### hey there! im bella 😉
 
 <!--
-**bfu4/bfu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bfu4/bfu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
 - 🔭 i’m currently working on procrastinating, optimization of my code, reverse engineering (and documenting) binaries / source
@@ -14,4 +14,3 @@
 - 📫 how to reach me: my email (pgp is there too :D), my twitter, discord (neemy#0030)
 - 💅🏼 pronouns: [she/her](https://pronoun.is/she)
 - ⚡ fun fact: i am a super big coffee fan, a software-breaking enthusiast, a "weeb coder guy" (i take pride in this one), and i love making (and EATING)chinese food
--->
