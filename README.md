@@ -9,3 +9,4 @@
 - site: [sleeeepyti.me](https://sleeeepyti.me)
 
 [![bella's gh stats](https://github-readme-stats.vercel.app/api?username=bfu4&count_private=true&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bfu4&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
