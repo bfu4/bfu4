@@ -9,4 +9,6 @@
 - site: [sleeeepyti.me](https://sleeeepyti.me)
 
 <!--[![bella's gh stats](https://github-readme-stats.vercel.app/api?username=bfu4&count_private=true&show_icons=true&theme=calm&custom_title=stats)](https://github.com/anuraghazra/github-readme-stats)-->
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bfu4&theme=calm&layout=compact&custom_title=langs)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- show 6 because oc fucking d -->
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bfu4&langs_count=6&hide=html&theme=calm&layout=compact&custom_title=langs)](https://github.com/anuraghazra/github-readme-stats)
