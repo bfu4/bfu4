@@ -1,7 +1,9 @@
 ## Hey there! I'm Bella 👋
 
 <br/>
+
 I like to write code, and I enjoy ***mingling*** in languages. Sometimes, I reverse engineer stuff.
+
 <br/>
 <br/>
 
