@@ -36,7 +36,7 @@ I like to write code, and I enjoy ***mingling*** in languages. Sometimes, I reve
 <!--- ether docs-->
 <a href="https://sleeeepyti.me/docs/eth" target="_blank" style="text-decoration: none;"><img src="https://ethereum.org/icons/icon-96x96.png?v=8b512faa8d4a0b019c123a771b6622aa" width="50" height="50" /></a>
 <!--- website -->
-<a href="https://sleeeepyti.me" target="_blank" style="text-decoration: none;"><img src="http://clipart-library.com/img/1930843.png" width="50" height="50"/></a>
+<a href="https://sleeepy.ninja" target="_blank" style="text-decoration: none;"><img src="http://clipart-library.com/img/1930843.png" width="50" height="50"/></a>
 <!--- twitter -->
 <a href="https://twitter.com/bellafusari1" target="_blank" style="text-decoration: none;"><img src="https://sleeeepyti.me/images/twitter-grn.png" width="50" height="50" /></a>
 </div>
