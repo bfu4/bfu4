@@ -1,11 +1,15 @@
-# hey there! i'm bella 👋
+## Hey there! I'm Bella 👋
 
+<br/>
 I like to write code, and I enjoy ***mingling*** in languages. Sometimes, I reverse engineer stuff.
+<br/>
+<br/>
 
+<hr />
 
-
-### Languages I Mingle In
-
+<!--- thanks to @fuwn for showing me that this feature is a thing :o  <3 --->
+<details open>
+<summary>languages</summary>
 <div align="center">
 <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo.png" width="30" height="50"/>
 <img src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png" width="50" height="50"/>
@@ -16,15 +20,21 @@ I like to write code, and I enjoy ***mingling*** in languages. Sometimes, I reve
   
 <p><em>and more...</em></p>
 </div>
+</details>
 
-
-#
-
-
+<details closed>
+<summary>github language stats</summary>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfu4&langs_count=8&theme=calm&layout=compact&custom_title=langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfu4&langs_count=8&layout=compact&theme=gotham&show_icons=true&hide_title=true"/>
 </div>
+</details>
 
+<details closed>
+<summary>github activity stats</summary>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bfu4&show_icons=true&theme=gotham&hide_title=true"/>
+</div>
+</details>
 <br>
 <br>
 
@@ -34,9 +44,9 @@ I like to write code, and I enjoy ***mingling*** in languages. Sometimes, I reve
 <!--- htb -->
 <a href="https://www.hackthebox.eu/home/users/profile/474489" target="_blank" style="text-decoration: none;"><img src="https://www.hackthebox.eu/images/Cube-Icon-RGB-1024.png" width="45" height="50" /></a>
 <!--- ether docs-->
-<a href="https://sleeeepyti.me/docs/eth" target="_blank" style="text-decoration: none;"><img src="https://ethereum.org/icons/icon-96x96.png?v=8b512faa8d4a0b019c123a771b6622aa" width="50" height="50" /></a>
+<a href="https://sleeepy.ninja/docs/eth" target="_blank" style="text-decoration: none;"><img src="https://ethereum.org/icons/icon-96x96.png?v=8b512faa8d4a0b019c123a771b6622aa" width="50" height="50" /></a>
 <!--- website -->
-<a href="https://sleeepy.ninja" target="_blank" style="text-decoration: none;"><img src="http://clipart-library.com/img/1930843.png" width="50" height="50"/></a>
+<a href="https://sleeepy.ninja" target="_blank" style="text-decoration: none;"><img src="https://sleeeepyti.me/favicon.ico" width="50" height="50"/></a>
 <!--- twitter -->
 <a href="https://twitter.com/bellafusari1" target="_blank" style="text-decoration: none;"><img src="https://sleeeepyti.me/images/twitter-grn.png" width="50" height="50" /></a>
 </div>
