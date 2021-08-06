@@ -19,6 +19,7 @@ I like to write code, and I enjoy ***mingling*** in languages. Sometimes, I reve
 <img src="./sol.png" width="50" height="50" />
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50"/>
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcoryrylan.com%2Fassets%2Fimages%2Fposts%2Ftypes%2Ftypescript.png&f=1&nofb=1" width="50" height="50" />
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcamo.githubusercontent.com%2F98ed65187a84ecf897273d9fa18118ce45845057%2F68747470733a2f2f7261772e6769746875622e636f6d2f676f6c616e672d73616d706c65732f676f706865722d766563746f722f6d61737465722f676f706865722e706e67&f=1&nofb=1" width="50" height="50"/>
   
 <p><em>and more...</em></p>
 </div>
