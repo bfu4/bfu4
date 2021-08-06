@@ -18,6 +18,7 @@ I like to write code, and I enjoy ***mingling*** in languages. Sometimes, I reve
 <img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/512x512.png" width="50" height="50"/>
 <img src="./sol.png" width="50" height="50" />
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50"/>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcoryrylan.com%2Fassets%2Fimages%2Fposts%2Ftypes%2Ftypescript.png&f=1&nofb=1" width="50" height="50" />
   
 <p><em>and more...</em></p>
 </div>
