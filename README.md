@@ -28,7 +28,7 @@ I like to write code, and I enjoy ***mingling*** in languages. Sometimes, I reve
 <details closed>
 <summary>github language stats</summary>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfu4&langs_count=8&layout=compact&theme=gotham&show_icons=true&hide_title=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfu4&langs_count=8&hide=html,javascript&layout=compact&theme=gotham&show_icons=true&hide_title=true"/>
 </div>
 </details>
 
